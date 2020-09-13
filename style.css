@@ -1,0 +1,233 @@
+<style> 
+body{
+}
+    
+	p.solid {border-style: solid;
+	border-color:#e7fc03;
+	background-color: #80DEEA;
+	}
+	div.solid{
+		border-style: solid;
+		border-color: white
+		background-color: #999900;
+	}
+	p.solid1 {border-style: solid;
+    width: 75%;
+    border-color: #e7fc03;
+	background-color:#80DEEA;
+	}
+	div.solid1{
+		border-style: solid;
+		border-color: #e7fc03;
+		background-color: #80DEEA;
+	}
+	p.solid2 {border-style: solid;
+	width: 25%;
+    border-color: white;
+	background-color: #80DEEA;
+	}
+	div.solid2{
+		border-style: solid;
+		border-color: white
+		background-color: #80DEEA;
+	}
+	p.solid3 {border-style: solid;
+	width: 5%;
+    border-color: white;
+	background-color: #80DEEA;
+	}
+	div.solid3{
+		border-style: solid;
+		border-color: white
+		background-color: #80DEEA;
+	}
+	p.solid4 {border-style: solid;
+	width: 75%;
+    border-color: #e7fc03;
+	background-color: #80DEEA;
+	}
+	div.solid4{
+		border-style: solid;
+		border-color:#e7fc03;
+		background-color: #80DEEA;
+	}
+	p.solid5 {border-style: solid;
+	width: 35%;
+    border-color: white;
+	background-color: #80DEEA;
+	}
+	div.solid5{
+		border-style: solid;
+		border-color: white
+		background-color: #80DEEA;
+	}
+	p.solid6 {border-style: solid;
+	width: 2.5%;
+    border-color: white;
+	background-color: #80DEEA;
+	}
+	div.solid6{
+		border-style: solid;
+		border-color: white
+		background-color: #80DEEA;
+	}
+	p.solid7 {border-style: solid;
+	width: 15%;
+    border-color: white;
+	background-color: #80DEEA;
+	}
+	div.solid7{
+		border-style: solid;
+		border-color: white
+		background-color: #80DEEA;
+	}
+	p.solid8 {border-style: solid;
+	width: 80%;
+    border-color:#e7fc03;
+	background-color:#80DEEA;
+	}
+	div.solid8{
+		border-style: #e7fc03;
+		border-color: white
+		background-color: #80DEEA;
+	}
+	p.solid9 {border-style: solid;
+	width: 90%;
+    border-color: #e7fc03;
+	background-color: #80DEEA;
+	}
+	div.solid9{
+		border-style: solid;
+		border-color: #e7fc03
+		background-color: #80DEEA;
+	}
+	p.solid10{border-style: solid;
+		width: 31%;
+		border-color: #e7fc03;
+	background-color: #80DEEA;
+	}
+	div.solid10{
+		border-style: solid;
+		border-color: #e7fc03;
+		background-color: #80DEEA;
+	}
+	p.solid11{border-style: solid;
+		width: 55%;
+		border-color: #e7fc03;
+	background-color: #80DEEA;
+	}
+	div.solid11{
+		border-style: solid;
+		border-color: #e7fc03;
+		background-color: #80DEEA;
+	}
+	p.solid12 {border-style: solid;
+	border-color: white;
+	width: 56.3%
+    }
+	p.solid13 {border-style: solid;
+	border-color: white;
+	width: 13%;
+	background-color: #80DEEA;
+	}
+	div.solid13{
+		border-style: solid;
+		border-color: white;
+		background-color: #80DEEA;
+	}
+	p.solid14 {border-style: solid;
+	border-color: white;
+	width: 13%;
+	background-color: #80DEEA;
+	text-align: center;
+	}
+	div.solid14{
+		border-style: solid;
+		border-color: white;
+		background-color: #80DEEA;
+		text-align: center;
+	}
+	p.round{
+    border: 2px solid black;
+    border-radius: 60%;
+    width: 480px;
+    height: 320px;
+    border-color: #e7fc03;
+    }
+    div.round{
+		border-style: solid;
+		border-color: #e7fc03;
+	}
+    body{
+    background-image: url("Images/warframe.png");
+    background-attachment: fixed;
+    background-size: 1580px 784px;
+    }
+    div.a {
+    text-align: center;
+    }
+    div.b {
+    text-align: center;
+    border-radius: 25px;
+    border-style: solid;
+	border-color: #e7fc03;
+	background-image: linear-gradient(to bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    }
+    div.c {
+    text-align: center;
+    border-style: solid;
+    border-color: #e7fc03;
+    width: 10%
+    }
+    p.d {
+    border-radius: 25px;
+    text-align: center;
+    border-style: solid;
+    border-color: #e7fc03;
+    background-image: linear-gradient(to right, red , yellow);
+    }
+    p.e{
+    border-radius: 25px;
+    text-align: center;
+    border-style: solid;
+    border-color: #e7fc03;
+    background-image: linear-gradient(to right, red , yellow);
+    }
+    div.e{
+    border-style: solid;
+	border-color: white;
+	background-image: linear-gradient(to bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    }
+    }
+    .hover{
+    	margin-left: 18.5%;
+
+
+    }
+    .hover img{
+    	transition: 1s;
+    	opacity: 30%;
+    }
+    .hover img:hover{
+    	float: center;
+    	transform: scale(1.5);
+    	opacity: 100%;
+    }
+    .hover1{
+    	margin-left: 8.5%;
+    }
+    .hover1 img{
+    	transition: 1s;
+    	opacity: 100%;
+    }
+    .hover1 img:hover{
+    	float: center;
+    	transform: scale(1.5);
+    	opacity: 100%;
+    }
+    .input{
+    	background: transparent;
+    	border-color: black;
+    } 
+
+    }
